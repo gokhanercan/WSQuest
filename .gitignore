@@ -10,3 +10,4 @@
 /packages
 /.vs/WSQuest.Web/v15/Server/sqlite3
 *.user
+*.suo

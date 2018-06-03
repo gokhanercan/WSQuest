@@ -1,0 +1,5 @@
+C:\PROJECTS\MLPractices\Projects\WSQuest\WSQuest.Entity\bin\Debug\WSQuest.Entity.dll
+C:\PROJECTS\MLPractices\Projects\WSQuest\WSQuest.Entity\bin\Debug\WSQuest.Entity.pdb
+C:\PROJECTS\MLPractices\Projects\WSQuest\WSQuest.Entity\obj\Debug\WSQuest.Entity.csprojResolveAssemblyReference.cache
+C:\PROJECTS\MLPractices\Projects\WSQuest\WSQuest.Entity\obj\Debug\WSQuest.Entity.dll
+C:\PROJECTS\MLPractices\Projects\WSQuest\WSQuest.Entity\obj\Debug\WSQuest.Entity.pdb
