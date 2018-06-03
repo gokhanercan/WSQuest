@@ -1,0 +1,70 @@
+﻿.sub-header {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+.navbar-fixed-top {
+  border: 0;
+}
+.main {
+  padding: 20px;
+}
+@media (min-width: 768px) {
+  .main {
+    padding-right: 40px; 
+    padding-left: 40px;
+  }
+}
+.main .page-header {
+  margin-top: 0;
+}
+
+html {
+-ms-touch-action: manipulation;
+touch-action: manipulation;
+}
+
+.icerik{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.icerik .cg {
+    margin: 0 auto;
+    font-size: xx-large;
+    width: 100%;
+}
+
+.ui-controlgroup cg{ text-align: center;}
+.input-box{ width: auto; display: inline-block; text-align: center;}
+.input-box label{ margin: 0;}
+
+a[choice='1'] {background-color:orange;}
+span.word{padding-left:10px; padding-right:10px;font-size:28px}
+
+*.btn-default:hover{background-color:orange;}
+*.btn-default.no-hover{background-color:white !important;}
+*.btn-default:active{background-color:orange;}
+*.btn-default:focus{background-color:orange;}
+*.btn-intense:active{background-color:orange;}
+
+div.highlight{background-color:#e5e5e5;}
+
+span.grayed{color:gray;}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (max-width : 420px){
+    b.qb{ font-size:x-small !important; }
+    div.well{padding:5px;}
+    span.word{font-size:22px;}
+}
+
+@media only screen and (max-width : 650px) {
+    b.qb{font-size:medium !important; }
+    div.well{padding:10px;}
+    span.word{font-size:26px;}
+}
+
+ol.guide li{
+      margin-bottom: 10px;
+}

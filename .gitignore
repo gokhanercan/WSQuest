@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/WSQuest.Web/todos.txt
+/WSQuest.Web/website.publishproj
+/WSQuest.Repository/bin/Debug
+/WSQuest.Repository/obj/Debug
+/packages
+/.vs/WSQuest.Web/v15/Server/sqlite3
+*.user
