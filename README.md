@@ -10,7 +10,7 @@ Check out full working demo application from the links below:
 ### Cite
 If you use this resource on your research, please cite the following paper: 
 
-Ercan, G. and Yıldız, O.T., 2018. AnlamVer: Semantic Model Evaluation Dataset for Turkish - Word Similarity and Relatedness. In Proceedings of the 27th International Conference on Computational Linguistics (pp. 3819-3836). [(Details)](http://www.gokhanercan.com/publications.aspx)
+Ercan, G. and Yıldız, O.T., 2018. AnlamVer: Semantic Model Evaluation Dataset for Turkish - Word Similarity and Relatedness. In Proceedings of the 27th International Conference on Computational Linguistics (pp. 3819-3836). [(Details)](http://www.gokhanercan.com/publications.aspx?paper=anlamver)
 ```
 @inproceedings{ercan2018anlamver,
   title={AnlamVer: Semantic Model Evaluation Dataset for Turkish - Word Similarity and Relatedness},
